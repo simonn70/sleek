@@ -85,7 +85,7 @@ export const projects = [
     des: "A startup aiming at connecting mentees with industry mentors for building a career",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://dev2winn.vercel.app/",
+    link: "https://dev-2-winn.vercel.app/",
   },
   {
     id: 3,
