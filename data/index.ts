@@ -77,7 +77,7 @@ export const projects = [
     des: "Explore the wonders of our gig economy system we built for a client ",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/inserviz.com",
+    link: "https://inserviz.com/",
   },
   {
     id: 2,
@@ -85,7 +85,7 @@ export const projects = [
     des: "A startup aiming at connecting mentees with industry mentors for building a career",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/dev2winn.vercel.app",
+    link: "https://dev2winn.vercel.app/",
   },
   {
     id: 3,
@@ -93,7 +93,7 @@ export const projects = [
     des: "A UI solution built on the frontend for a client for future integration with backend",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/tech-site-azj3.vercel.app",
+    link: "https://tech-site-azj3.vercel.app/",
   },
 ];
 
