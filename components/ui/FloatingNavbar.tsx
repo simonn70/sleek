@@ -8,6 +8,7 @@ import {
 } from "framer-motion";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
+import { TextGenerateEffect } from "./TextGenerateEffect";
 
 export const FloatingNav = ({
   navItems,
@@ -71,6 +72,7 @@ export const FloatingNav = ({
           border: "1px solid rgba(255, 255, 255, 0.125)",
         }}
       >
+        <TextGenerateEffect words="Sleek" className="text-center  text-xl" />
         {navItems.map((navItem: any, idx: number) => (
           <Link
             key={`link=${idx}`}
